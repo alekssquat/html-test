@@ -1,3 +1,19 @@
-.page-header{
-font-size:10px;
+html,
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+body {
+  min-width: 430px;
+  border: 2px dashed #c7e4ff;
+}
+
+main,
+header,
+footer {
+  background-color: #f3faff;
+  border: 2px solid #7fc1ff;
 }
